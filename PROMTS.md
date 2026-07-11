@@ -1,1 +1,1 @@
-devconf website section NewsLetter sigup html and css  
+AI section genareted promts: devconf website section NewsLetter sigup html and css  
